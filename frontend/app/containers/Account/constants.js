@@ -1,0 +1,22 @@
+/*
+ *
+ * Account constants
+ *
+ */
+
+export const SINGLE_ACCOUNT_FETCH_REQ = 'app/Account/SINGLE_ACCOUNT_FETCH_REQ';
+export const SINGLE_ACCOUNT_FETCH_SUC = 'app/Account/SINGLE_ACCOUNT_FETCH_SUC';
+
+export const SINGLE_ACCOUNT_RESET = 'app/Account/SINGLE_ACCOUNT_RESET';
+
+export const SINGLE_ACCOUNT_SAVE_REQ = 'app/Account/SINGLE_ACCOUNT_SAVE_REQ';
+export const SINGLE_ACCOUNT_SAVE_SUC = 'app/Account/SINGLE_ACCOUNT_SAVE_SUC';
+
+export const SINGLE_ACCOUNT_UPDATE_REQ = 'app/Account/SINGLE_ACCOUNT_UPDATE_REQ';
+export const SINGLE_ACCOUNT_UPDATE_SUC = 'app/Account/SINGLE_ACCOUNT_UPDATE_SUC';
+
+export const SINGLE_ACCOUNT_DELETE_REQ = 'app/Account/SINGLE_ACCOUNT_DELETE_REQ';
+export const SINGLE_ACCOUNT_DELETE_SUC = 'app/Account/SINGLE_ACCOUNT_DELETE_SUC';
+
+export const GETFAVICON_REQ = 'app/Account/GETFAVICON_REQ';
+export const GETFAVICON_SUC = 'app/Account/GETFAVICON_SUC';

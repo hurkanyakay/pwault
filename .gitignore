@@ -1,0 +1,9 @@
+# Don't check auto-generated stuff into git
+.DS_Store
+node_modules
+*.lock
+build
+backend/logs/*
+backend/datas/*
+.env
+package-lock.json
