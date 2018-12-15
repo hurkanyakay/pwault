@@ -2,6 +2,8 @@
 
 # PWault
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hurkanyakay/pwault.svg)](https://greenkeeper.io/)
+
 Work in Progress. PWault is a password vault based on NodeJs, SQLite and React/Redux/Redux-Saga and simply generates password and saves them with related information like website url, email, username, website favicon and additional information. Frontend is based on React Boilerplate. React semantic-ui is used in frontend.
 
 
