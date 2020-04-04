@@ -225,7 +225,7 @@
     "invariant": "2.2.2",
     "ip": "1.1.5",
     "lodash": "4.17.5",
-    "minimist": "1.2.0",
+    "minimist": "1.2.5",
     "polished": "^1.9.2",
     "prop-types": "15.5.10",
     "query-string": "^6.1.0",
